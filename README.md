@@ -30,7 +30,7 @@ Users should be able to:
 
 
 
-## Bugs
+## Links
 
 
-## Outro
+## Author
