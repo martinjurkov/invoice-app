@@ -26,10 +26,6 @@ Users should be able to:
  - Toggle light and dark mode
  - Keep track of any changes, even after refreshing the browser (localStorage)
 
-## Things I Wish I Would Have Done
-
-
-
 ## Links
  - Solution URL: <a href=https://github.com/martinjurkov/invoice-app>GitHub</a>
  - Live Site URL: <a href=https://monumental-cendol-dff033.netlify.app/>Live</a>
